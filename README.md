@@ -9,6 +9,8 @@ DICOM viewer application for Leap Motion
 
 [OpenCV 2.4.8](http://opencv.org/) -- if you're using the Anaconda distribution for python and are running MacOS, here is an extremely useful [snippet](https://gist.github.com/welch/6468594) on how to build OpenCV.
 
+[pydicom 0.9.8](https://code.google.com/p/pydicom/) (mandatory to read DICOM images)
+
 ## Usage
 
 ```
